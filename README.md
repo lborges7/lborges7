@@ -3,7 +3,7 @@
 
 **`Analista Suporte Jr.`**
 
-Sou Analista de Suporte Júnior com experiência em atendimento técnico, diagnóstico e resolução de problemas em ambientes de TI. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em transição para a área de desenvolvimento de software e banco de dados. 
+Sou Analista de Suporte Júnior com experiência em atendimento técnico, diagnóstico e resolução de problemas em ambientes de TI. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas(ADS)**, com foco em transição para a área de desenvolvimento de software e banco de dados. 
 
 Tenho formação complementar em **Lógica de Programação e Algoritmos** (Udemy). Estou sempre buscando complementar meus estudos com cursos, desenvolver projetos práticos que me ajudem a evoluir e aprimorar minhas habilidades técnicas como desenvolvedor.
 
