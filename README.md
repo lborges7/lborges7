@@ -11,7 +11,7 @@ Como entusiasta na área de tecnologia, meu objetivo é crescer, contribuindo co
 
 ---
 
-### ☕ Linguagens e Tecnologias
+### ☕ Linguagens e Tecnologias que estou estudando
 
 <img 
     align="left" 
